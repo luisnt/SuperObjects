@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/16 21:04:26.000.707,C:\Users\Luis\Projects\App\ProjectGroup1.groupproj=C:\Users\Luis\Projects\App\MindSET\ProjectGroup.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="C:\Users\Luis\Projects\lib\src\SuperObjects\Packages\SuperObjects.Sydney.dproj"/>
+	</Default.Personality>
+</BorlandProject>

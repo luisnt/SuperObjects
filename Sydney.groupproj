@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{4CF99032-C957-42A3-ADB3-E2D7602E024F}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Packages\SuperObjects.Sydney.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Packages\SuperObjectsComponentView.Sydney.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="SuperObjects_Sydney">
+        <MSBuild Projects="Packages\SuperObjects.Sydney.dproj"/>
+    </Target>
+    <Target Name="SuperObjects_Sydney:Clean">
+        <MSBuild Projects="Packages\SuperObjects.Sydney.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SuperObjects_Sydney:Make">
+        <MSBuild Projects="Packages\SuperObjects.Sydney.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="SuperObjectsComponentView_Sydney">
+        <MSBuild Projects="Packages\SuperObjectsComponentView.Sydney.dproj"/>
+    </Target>
+    <Target Name="SuperObjectsComponentView_Sydney:Clean">
+        <MSBuild Projects="Packages\SuperObjectsComponentView.Sydney.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SuperObjectsComponentView_Sydney:Make">
+        <MSBuild Projects="Packages\SuperObjectsComponentView.Sydney.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="SuperObjects_Sydney;SuperObjectsComponentView_Sydney"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="SuperObjects_Sydney:Clean;SuperObjectsComponentView_Sydney:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="SuperObjects_Sydney:Make;SuperObjectsComponentView_Sydney:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/07 14:50:36.000.064,=rtl.dcp</Transaction>
+    <Transaction>2021/03/07 14:50:53.000.916,=C:\Users\Luis\Projects\lib\src\SuperObjects\supertimezone.pas</Transaction>
+    <Transaction>2021/03/07 14:50:53.000.868,=C:\Users\Luis\Projects\lib\src\SuperObjects\superobject.pas</Transaction>
+    <Transaction>2021/03/07 14:50:53.000.761,=C:\Users\Luis\Projects\lib\src\SuperObjects\superdate.pas</Transaction>
+    <Transaction>2021/03/07 14:50:54.000.104,=C:\Users\Luis\Projects\lib\src\SuperObjects\superxmlparser.pas</Transaction>
+    <Transaction>2021/03/07 14:50:54.000.018,=C:\Users\Luis\Projects\lib\src\SuperObjects\supertypes.pas</Transaction>
+    <Transaction>2021/03/07 14:53:12.000.825,C:\Users\Luis\Projects\Package1.dproj=C:\Users\Luis\Projects\lib\src\SuperObjects\Packages\Sydney.dproj</Transaction>
+    <Transaction>2021/03/07 14:53:39.000.404,C:\Users\Luis\Projects\lib\src\SuperObjects\Packages\Sydney.dproj=C:\Users\Luis\Projects\lib\src\SuperObjects\Packages\SuperObjectsSydney.dproj</Transaction>
+    <Transaction>2021/03/07 14:53:49.000.188,C:\Users\Luis\Projects\lib\src\SuperObjects\Packages\SuperObjectsSydney.dproj=C:\Users\Luis\Projects\lib\src\SuperObjects\Packages\SuperObjects.Sydney.dproj</Transaction>
+    <Transaction>2021/03/07 14:54:21.000.509,C:\Users\Luis\Projects\lib\src\SuperObjects\Packages\SuperObjects.Sydney.dproj=C:\Users\Luis\Projects\lib\src\SuperObjects\Packages\SuperObjects.Sydney.dproj</Transaction>
+    <Transaction>2021/03/07 14:54:39.000.647,C:\Users\Luis\Projects\lib\src\SuperObjects\superdate.pas=C:\Users\Luis\Projects\lib\src\SuperObjects\Src\superdate.pas</Transaction>
+    <Transaction>2021/03/07 14:54:45.000.363,C:\Users\Luis\Projects\lib\src\SuperObjects\superobject.pas=C:\Users\Luis\Projects\lib\src\SuperObjects\Src\superobject.pas</Transaction>
+    <Transaction>2021/03/07 14:54:51.000.900,C:\Users\Luis\Projects\lib\src\SuperObjects\supertimezone.pas=C:\Users\Luis\Projects\lib\src\SuperObjects\Src\supertimezone.pas</Transaction>
+    <Transaction>2021/03/07 14:54:57.000.012,C:\Users\Luis\Projects\lib\src\SuperObjects\supertypes.pas=C:\Users\Luis\Projects\lib\src\SuperObjects\Src\supertypes.pas</Transaction>
+    <Transaction>2021/03/07 14:55:02.000.792,C:\Users\Luis\Projects\lib\src\SuperObjects\superxmlparser.pas=C:\Users\Luis\Projects\lib\src\SuperObjects\Src\superxmlparser.pas</Transaction>
+    <Transaction>2021/03/07 15:37:25.000.051,=C:\Users\Luis\Projects\lib\src\SuperObjects\Src\SuperObjects.DataView.pas</Transaction>
+  </Transactions>
+</BorlandProject>

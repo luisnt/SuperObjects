@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/07 15:11:25.000.942,=rtl.dcp</Transaction>
+    <Transaction>2021/03/07 15:12:06.000.882,C:\Users\Luis\Projects\lib\src\SuperObjects\Packages\SuperObjectsComponentView.Sydney.dproj=C:\Users\Luis\Projects\Package1.dproj</Transaction>
+    <Transaction>2021/03/07 15:14:48.000.961,=C:\Users\Luis\Projects\lib\src\SuperObjects\Src\soeditor.pas</Transaction>
+    <Transaction>2021/03/07 15:16:46.000.985,=C:\Users\Luis\Projects\lib\src\SuperObjects\Src\SuperObjectsDataView.pas</Transaction>
+    <Transaction>2021/03/07 15:18:26.000.095,=C:\Users\Luis\Projects\lib\src\SuperObjects\Packages\Unit1.pas</Transaction>
+    <Transaction>2021/03/07 15:19:02.000.598,C:\Users\Luis\Projects\lib\src\SuperObjects\Src\SuperObject.Register.pas=C:\Users\Luis\Projects\lib\src\SuperObjects\Packages\Unit1.pas</Transaction>
+    <Transaction>2021/03/07 15:22:10.000.164,C:\Users\Luis\Projects\lib\src\SuperObjects\Src\SuperObject.PropertyEditor.pas=C:\Users\Luis\Projects\lib\src\SuperObjects\Src\soeditor.pas</Transaction>
+    <Transaction>2021/03/07 15:23:15.000.585,C:\Users\Luis\Projects\lib\src\SuperObjects\Src\SuperObjects.DataView.pas=C:\Users\Luis\Projects\lib\src\SuperObjects\Src\SuperObjectsDataView.pas</Transaction>
+    <Transaction>2021/03/07 15:23:44.000.026,C:\Users\Luis\Projects\lib\src\SuperObjects\Src\SuperObjects.PropertyEditor.pas=C:\Users\Luis\Projects\lib\src\SuperObjects\Src\SuperObject.PropertyEditor.pas</Transaction>
+    <Transaction>2021/03/07 15:23:51.000.495,C:\Users\Luis\Projects\lib\src\SuperObjects\Src\SuperObjects.Register.pas=C:\Users\Luis\Projects\lib\src\SuperObjects\Src\SuperObject.Register.pas</Transaction>
+    <Transaction>2021/03/07 15:37:12.000.676,C:\Users\Luis\Projects\lib\src\SuperObjects\Src\SuperObjects.DataView.pas=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\SuperObjects"/>
+    <File Path="..\Src"/>
+    <File Path="..\Src\SuperObjects.PropertyEditor.pas"/>
+    <File Path="..\Src\SuperObjects.Register.pas"/>
+    <File Path="rtl.dcp"/>
+    <File Path="SuperObjects.Sydney.dcp"/>
+  </ProjectSortOrder>
+</BorlandProject>
